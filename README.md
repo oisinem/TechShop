@@ -1,2 +1,0 @@
-# SEB_PROJECT
-# Silverbridge
