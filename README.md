@@ -1,8 +1,8 @@
-# TECHSHOP
+## TECHSHOP
 
-#This is the read my file
+# This is the read my file
 
-#This website is a website to sell Tech products.
+# This website is a website to sell Tech products.
 
 As you start off in the index page which is the main home page , the user will have 2 options.
 To continue as a manager i.e. manage the products but updating them or deleting them or the user could contine and view them as a customer. 
